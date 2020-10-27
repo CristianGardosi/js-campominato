@@ -1,9 +1,25 @@
 body {
     font-family: 'Staatliches';
     background: #4E9258;
-    color: #fff;
+    color: #B3F0BC;
 }
 
-.text-center {
-    text-align: center;
+.container-h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    font-size: 200px;
+    background: black;
+    padding: 0px 40px;
+}
+
+.container-img{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    width: 180px;
 }
